@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @liaotiancheng72
+- 👀 I’m interested in Computer Science undergrad with a keen interest in Ruby.
+- 🌱 Eager to contribute to open-source projects and learn from the community.
